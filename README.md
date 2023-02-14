@@ -1,3 +1,5 @@
+https://github.com/smithisdname/simple_shell.wiki.git
+
 Description
 Folarin and Chy's Shell is a simple UNIX command interpreter that replicates some functionalities of the simple shell (sh). This program is written in C as a project for the ALX Software Engineering program.
 
