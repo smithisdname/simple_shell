@@ -2,7 +2,7 @@
 
 Description
 
-Folarin and Chioma Ameh Simple Shell Project
+Folarin and Chioma Simple Shell Project
 Shell is a simple UNIX command interpreter that replicates some functionalities of the simple shell (sh). This program is written in C as a project for the ALX Software Engineering program.
 
 Compilation
